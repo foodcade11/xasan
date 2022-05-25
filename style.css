@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+ 
+header{
+    background-color: blueviolet;
+    
+    
+    
+    
+}
+header h1{
+    text-align: center;
+    color: white;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+
+.first{
+    width: 400px;
+    height: 500px;
+background-color: yellow;
+position: absolute;
+top: 12%;
+
+
+
+}
+.second{
+    position: absolute;
+    width: 550px;
+    height: 500px;
+background-color: blue;
+right: 30%;
+top: 12%;
+
+}
+.third{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+background-color: orange;
+right: 1% ;
+top: 12%;
+
+
+
+}
+.first p{
+    color: black;
+    font-size: 20px  ;
+    padding: 30px ;
+}
+.second video{
+      padding-left: 140px;
+      padding-top: 200px;
+}
+.third img{
+    width: 200px;
+    padding-top: 200px;
+    padding-left: 145px;
+}
+footer{
+    background-color: brown;
+    text-align: center;
+    width: 1450px;
+    height: 60px;
+    position: absolute;
+    top: 88%;
+
+
+}
